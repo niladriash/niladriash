@@ -19,8 +19,6 @@
 ### My Experiences 🙌
 - [Build a Face Recognition Application using Python](https://www.guvi.in/verify-certificate?id=82eY188r3Kj98U619x)
 - [Microsoft AI Classroom](blank)
-</br>
-
 ### Technical Skills 📖
 - Programming Languages: C, Java, Python, JavaScript.
 - Automation: Playwight.
