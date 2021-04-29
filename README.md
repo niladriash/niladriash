@@ -1,6 +1,6 @@
 <img src="./assets/banner.png">
 
-##Contact with me 📱📞
+## Contact with me 📱📞
 <a herf = "https://www.linkedin.com/in/niladri-ash/">
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -9,14 +9,18 @@
 </a>
 <a href="niladriash2001@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-
+</a>
 </br>
+
 ### About Myself 💻
 🎓 I’m an Open-Source enthusiast & a undergrad currently pursuing my degree Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am interested in Web Development, Machine Learning, Ethical hacking & Competitive Programming. Apart from that, I am curious about learning new things. </br>
+
 ### My Experiences 🙌
 - [Build a Face Recognition Application using Python](https://www.guvi.in/verify-certificate?id=82eY188r3Kj98U619x)
 - [Microsoft AI Classroom](blank)
+</br>
+
 ### Technical Skills 📖
 - Programming Languages: C, Java, Python, JavaScript.
 - Automation: Playwight.
