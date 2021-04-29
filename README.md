@@ -1,4 +1,5 @@
-<img align="left" src="./assets/banner.png">
+<img src="./assets/banner.png">
+
 ##Contact with me 📱📞
 <a herf = "https://www.linkedin.com/in/niladri-ash/">
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -27,4 +28,4 @@
 ![Niladri's github stats](https://github-readme-stats.vercel.app/api?username=niladriash&show_icons=true&hide_border=true&theme=radical)
 </br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=niladriash.niladriash)</br>
-<img align="left" src="./assets/footer.png"># niladriash
+<img src="./assets/footer.png"># ©niladriash
