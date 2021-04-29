@@ -29,5 +29,9 @@
 
 ![Niladri's github stats](https://github-readme-stats.vercel.app/api?username=niladriash&show_icons=true&hide_border=true&theme=radical)
 </br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=niladriash.niladriash)</br>
-<img src="./assets/footer.png"># ©niladriash
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=niladriash.niladriash)
+</br>
+
+<img src="./assets/footer.png">
+©niladriash
