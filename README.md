@@ -1,15 +1,13 @@
 ![banner](assets/banner.png)
 ## Contact with me 📱📞
-![github](./assets/github.png =40px)
-
-<a herf = "https://www.linkedin.com/in/niladri-ash/">
+<a herf="https://www.linkedin.com/in/niladri-ash/">
 <img align="left" width="40px" src="./assets/linkedin.png"/>
 </a>
-<a herf = https://twitter.com/NiladriAsh>
+<a herf="https://twitter.com/NiladriAsh">
 <img align="left" width="40px" src="./assets/twitter.png"/>
 </a>
-<a href="niladriash2001@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:niladriash2001@gmail.com">
+  <img align="left" width="40px" src="./assets/gmail.png" />
 </a>
 </br>
 
@@ -35,5 +33,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=niladriash.niladriash)
 </br>
 ****
-<img src="./assets/footer.png">
+
+![footer](./assets/footer.png)
 ©niladriash
