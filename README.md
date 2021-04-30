@@ -1,4 +1,4 @@
-![banner](assets/banner.png)
+![banner](assets/banner.png  "my banner")
 ## Contact with me 📱📞
 <a herf="goto:https://www.linkedin.com/in/niladri-ash/">
 <img align="left" width="40px" src="./assets/linkedin.png"/>
@@ -11,7 +11,7 @@
 </a>
 </br>
 
-
+---
 ### About Myself 💻
 🎓 I’m an Open-Source enthusiast & a undergrad currently pursuing my degree Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am interested in Web Development, Machine Learning, Ethical hacking & Competitive Programming. Apart from that, I am curious about learning new things. </br>
@@ -25,10 +25,10 @@
 - Markup Languages: HTML, CSS.
 - Frameworks: React, JavaFX.
 - Technologies: Web Development, Microsoft Azure, SciKit learn.
-</br>
-
+---
 ![Niladri's github stats](https://github-readme-stats.vercel.app/api?username=niladriash&show_icons=true&hide_border=true&theme=radical)
-</br>
+
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=niladriash.niladriash)
 </br>
