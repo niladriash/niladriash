@@ -1,16 +1,18 @@
-<img src="./assets/banner.png">
-
+![banner](assets/banner.png)
 ## Contact with me 📱📞
+![github](./assets/github.png =40px)
+
 <a herf = "https://www.linkedin.com/in/niladri-ash/">
-<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<img align="left" width="40px" src="./assets/linkedin.png"/>
 </a>
 <a herf = https://twitter.com/NiladriAsh>
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+<img align="left" width="40px" src="./assets/twitter.png"/>
 </a>
 <a href="niladriash2001@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
+
 
 ### About Myself 💻
 🎓 I’m an Open-Source enthusiast & a undergrad currently pursuing my degree Bachelors in Computer Science & Engineering. </br>
@@ -32,6 +34,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=niladriash.niladriash)
 </br>
-
+****
 <img src="./assets/footer.png">
 ©niladriash
