@@ -1,6 +1,6 @@
 ![banner](assets/banner.png)
 ## Contact with me 📱📞
-<a herf="https://www.linkedin.com/in/niladri-ash/">
+<a herf="goto:https://www.linkedin.com/in/niladri-ash/">
 <img align="left" width="40px" src="./assets/linkedin.png"/>
 </a>
 <a herf="https://twitter.com/NiladriAsh">
