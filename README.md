@@ -26,6 +26,7 @@
 [5]: mailto:niladriash2001@gmail.com (mail me)
 [6]: https://www.youtube.com/channel/UCSmEt7IAzkTIdL-rOVFUUuA (Niladri Editz)
 [7]: https://github.com/niladriash (my github)
+
 ----
 ### About Myself 💻
 🎓 I’m an Open-Source enthusiast & a undergrad currently pursuing my degree Bachelors in Computer Science & Engineering. 
@@ -45,9 +46,9 @@
 ----
 ![Niladri's github stats](https://github-readme-stats.vercel.app/api?username=niladriash&show_icons=true&hide_border=true&theme=radical)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=niladriash.niladriash)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github profile](https://github.com/niladriash/niladriash)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=niladriash.niladriash)
 
 ----
 
