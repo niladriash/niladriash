@@ -29,7 +29,7 @@
 
 ----
 ### About Myself 💻
-🎓 I’m an Open-Source enthusiast & a undergrad currently pursuing my degree Bachelors in Computer Science & Engineering. 
+🎓 I’m an Open-Source enthusiast & a undergrad currently pursuing my degree in Bachelors of Computer Science & Engineering. 
 
 👨‍💻  I am interested in Web Development, Machine Learning, Ethical hacking & Competitive Programming. Apart from that, I am curious about learning new things.
 
